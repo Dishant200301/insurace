@@ -1,0 +1,5 @@
+{
+  "name": "InsureCo - Classic Insurance",
+  "description": "A classic and premium-style Insurance Website built with React, TypeScript, and Tailwind CSS. It features multiple pages including Home, Services, About, Blogs, and Contact.",
+  "requestFramePermissions": []
+}
